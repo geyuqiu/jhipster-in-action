@@ -53,4 +53,13 @@ tbody.small{
     text-decoration: line-through;
 }
 
-
+.slides .introduction .header
+.slides .starting-with-jhipster .header
+.slides .demo .header
+.slides .experience-with-jhipster .header
+.slides .outlook .header
+{
+    position: absolute;
+    top: -3px;
+    left: 0;
+}
